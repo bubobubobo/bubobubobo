@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake.svg">
+</picture>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2035%20mins-blue)
 
@@ -84,8 +90,4 @@ SCSS                     1 repo              █░░░░░░░░░░�
  Last Updated on 17/08/2023 19:18:20 UTC
 <!--END_SECTION:waka-->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake.svg">
-</picture>
+
