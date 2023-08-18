@@ -1,4 +1,7 @@
 ### Hi there 👋
+<div align="center">
+
+<br />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bubobubobo/bubobubobo/output/github-contribution-grid-snake-dark.svg">
@@ -90,4 +93,4 @@ SCSS                     1 repo              █░░░░░░░░░░�
  Last Updated on 17/08/2023 19:18:20 UTC
 <!--END_SECTION:waka-->
 
-
+</div>
